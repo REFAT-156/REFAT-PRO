@@ -12,8 +12,8 @@ def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
-            xoss('\x1b[1;94m[●] Follow My Github First 🎈')
-            os.system('xdg-open https://github.com/REFAT-156')
+            xoss('\x1b[1;94m[●] Join My Group First 🎈')
+            os.system('xdg-open https://facebook.com/groups/1431748223768752/')
             from HYPER import refat
             refat()
         elif bit == '32bit':
