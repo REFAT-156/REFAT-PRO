@@ -20,7 +20,7 @@ def Run():
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
             os.system('xdg-open https://github.com/REFAT-156')
-            from HYPER import refat
+            from HYPERR import refat
             refat()
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
