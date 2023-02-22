@@ -14,14 +14,14 @@ def Run():
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Join My Group First 🎈')
             os.system('xdg-open https://facebook.com/groups/1431748223768752/')
-            from HYPER import refat
-            refat()
+            from HYPER import rsbuy
+            rsbuy()
         elif bit == '32bit':
             xoss("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🍼🙂")
             xoss('\x1b[1;94m[●] Follow My Github First 🎈')
             os.system('xdg-open https://github.com/REFAT-156')
-            from HYPERR import refat
-            refat()
+            from HYPER32 import rsbuy
+            rsbuy()
         else:
             exit('\033[1;31m[●] Connection & Network Error 🤕')
 Run()
